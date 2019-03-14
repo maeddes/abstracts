@@ -14,5 +14,5 @@ Objectives:
 Module: Spring Boot Introduction
 
 * Background: Spring Framework - History & components
-* Spring <-> Spring Boot
+* Spring <- -> Spring Boot
 * Starter dependencies
