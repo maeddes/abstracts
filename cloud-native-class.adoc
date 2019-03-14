@@ -1,0 +1,18 @@
+= Overview
+
+Module: Cloud Introduction
+
+* What is Cloud Computing? Encounters in everyday life and history
+* Characteristic, advantages & challenges
+* Terminology - public, private, hybrid, dedicated
+* Abstraction layers - IaaS, PaaS, FaaS, SaaS
+* Overview - Hypervisors, virtual machines, containers and orchestration
+* Overview - Global cloud service providers (CSPs), technologies and corresponding offerings
+
+Objectives:
+
+Module: Spring Boot Introduction
+
+* Background: Spring Framework - History & components
+* Spring <-> Spring Boot
+* Starter dependencies
