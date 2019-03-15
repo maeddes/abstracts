@@ -9,7 +9,7 @@
 * Overview - Hypervisors, virtual machines, containers and orchestration
 * Overview - Global cloud service providers (CSPs), technologies and corresponding offerings
 
-_Objectives: The student is able to describe cloud computing in own words and list examples for offerings, topologies and technologies. Includes ability to differentiate between different abstraction layers and knowledge how those layers and according technologies interact with each other._
+_Objectives and exercises: The student is able to describe cloud computing in own words and list examples for offerings, topologies and technologies. Includes ability to differentiate between different abstraction layers and knowledge how those layers and according technologies interact with each other._
 
 *Module: Spring Boot Introduction*
 
