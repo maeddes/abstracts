@@ -1,5 +1,6 @@
 = Overview
 
+[.lead]
 *Module: Cloud Introduction*
 
 * What is Cloud Computing? Encounters in everyday life and history
