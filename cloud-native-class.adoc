@@ -1,6 +1,5 @@
 = Overview
 
-[.lead]
 *Module: Cloud Introduction*
 
 * What is Cloud Computing? Encounters in everyday life and history
@@ -10,10 +9,16 @@
 * Overview - Hypervisors, virtual machines, containers and orchestration
 * Overview - Global cloud service providers (CSPs), technologies and corresponding offerings
 
-Objectives:
+_Objectives: The student is able to describe cloud computing in own words and list examples for offerings, topologies and technologies. Includes ability to differentiate between different abstraction layers and knowledge how those layers and according technologies interact with each other._
 
 *Module: Spring Boot Introduction*
 
 * Background: Spring Framework - History & components
 * Spring <- -> Spring Boot
-* Starter dependencies
+* Spring Initializr (start.spring.io) & starter dependencies
+* Basic project structure
+* "Hello, World!" example explained
+* Basic logging and testing
+* Using Actuator
+
+Objectives:
