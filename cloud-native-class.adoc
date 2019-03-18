@@ -10,9 +10,9 @@
 * Overview - Global cloud service providers (CSPs), technologies and corresponding offerings
 
 === Objectives and exercises 
-The student is able to describe cloud computing in own words and list examples for offerings, topologies and technologies. Includes ability to differentiate between different abstraction layers and knowledge how those layers and according technologies interact with each other.
+_The student is able to describe cloud computing in own words and list examples for offerings, topologies and technologies. Includes ability to differentiate between different abstraction layers and knowledge how those layers and according technologies interact with each other. No exercises in this module (TODO: "Cloud readiness validation, setup dev env")_
 
-=== Module: Spring Boot Introduction
+== Module: Spring Boot Introduction
 
 * Background: Spring Framework - History & components
 * Spring <- -> Spring Boot
@@ -22,4 +22,5 @@ The student is able to describe cloud computing in own words and list examples f
 * Basic logging and testing
 * Using Actuator
 
-_Objectives and exercise: The student is able to build and configure an own Spring Boot application from scratch with the IDE of choice. The exercise is to build an own "Hello, World!" application that exposes various REST endpoints and is able to execute CRUD operations on the state of the application._
+=== Objectives and exercises
+_The student is able to build and configure an own Spring Boot application from scratch with the IDE of choice. The exercise is to build an own "Hello, World!" application that exposes various REST endpoints and is able to execute CRUD operations on the state of the application._
