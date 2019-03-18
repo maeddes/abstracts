@@ -21,4 +21,4 @@ _Objectives and exercises: The student is able to describe cloud computing in ow
 * Basic logging and testing
 * Using Actuator
 
-Objectives:
+_Objectives and exercise: The student is able to build and configure an own Spring Boot application from scratch with the IDE of choice. The exercise is to build an own "Hello, World!" application that exposes various REST endpoints and is able to execute CRUD operations on the state of the application._
