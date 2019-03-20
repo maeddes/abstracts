@@ -47,5 +47,8 @@ _The student understands the concepts and use cases of container technology and 
 * //TODO, Spring Data JDBC, SQL and noSQL examples
 
 === Objectives and exercises
-_The student is able to build a Spring Boot application (or extend an existing one) with Spring Data configuration. The goal is to have the application stateless and persist in-memory state to databases. The exercise is to create an application, which performs CRUD operations on a database backend. The database can either be in-memory (H2) or a (containerized) PostgreSQL. Optional: Provide a docker-compose file to stand up a multi-container environment with application and database._
+_The student is able to build a Spring Boot application (or extend an existing one) with Spring Data configuration. The exercise is to create an application, which performs CRUD operations on a database backend. The database can either be in-memory (H2) or a (containerized) PostgreSQL. Optional: Provide a docker-compose file to stand up a multi-container environment with application and database._
+
+
+
 
