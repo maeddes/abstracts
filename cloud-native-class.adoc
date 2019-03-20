@@ -35,7 +35,7 @@ _The student is able to build and configure an own Spring Boot application from 
 * Limitations and problems with containers
 
 === Objectives and exercises
-_The student understands the concepts and use cases of container technology and is able to describe them. The first exercise is to pull sample images from an image registry (e.g. Docker Hub) and interact with them (run, expose port, execute shell, cleanup etc). After that the student can show how to build a custom image via Dockerfile and push it to a registry for others to access. Optional: Take the sample application from module "Spring Boot Intro", put it into a container image and run it.
+_The student understands the concepts and use cases of container technology and is able to describe them. The first exercise is to pull sample images from an image registry (e.g. Docker Hub) and interact with them (run, expose port, execute shell, cleanup etc). After that the student can show how to build a custom image via Dockerfile and push it to a registry for others to access. Optional: Take the sample application from module "Spring Boot Intro", put it into a container image and run it._
 
 == Module: Persistence
 
@@ -43,5 +43,9 @@ _The student understands the concepts and use cases of container technology and 
 * Concept of entities and repositories
 * JPA and JDBC basics
 * H2, PostgeSQL, MySQL - configuration via Spring Boot
-* 
+* Running databases as Docker images
+* //TODO, Spring Data JDBC, SQL and noSQL examples
+
+=== Objectives and exercises
+_The student is able to build a Spring Boot application (or extend an existing one) with Spring Data configuration. The goal is to have the application stateless and persist in-memory state to databases. The exercise is to create an application, which performs CRUD operations on a database backend. The database can either be in-memory (H2) or a (containerized) PostgreSQL. Optional: Provide a docker-compose file to stand up a multi-container environment with application and database._
 
