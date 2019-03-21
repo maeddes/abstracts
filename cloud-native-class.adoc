@@ -1,6 +1,6 @@
 = Overview
 
-== Module: Cloud Introduction
+== Module: Cloud Introduction (theory-block I)
 
 * What is Cloud Computing? Encounters in everyday life and history
 * Characteristic, advantages & challenges
@@ -48,6 +48,24 @@ _The student understands the concepts and use cases of container technology and 
 
 === Objectives and exercises
 _The student is able to build a Spring Boot application (or extend an existing one) with Spring Data configuration. The exercise is to create an application, which performs CRUD operations on a database backend. The database can either be in-memory (H2) or a (containerized) PostgreSQL. Optional: Provide a docker-compose file to stand up a multi-container environment with application and database._
+
+== Module: Configuration & Profiles
+
+== Module: Communication & Messaging
+
+== Module: UI
+
+== Module: Cloud-native software development & Microservices (theory-block II)
+
+== Module: Spring Cloud Services
+
+== Module: Cloud Foundry
+
+== Module: Kubernetes
+
+== Module: Resilience
+
+== Module: Security
 
 
 
