@@ -1,0 +1,12 @@
+== Kubernetes and Cloud Foundry - What is the overlap? What is the difference?
+
+Platform and Container as a Service layers (PaaS/CaaS) enable developers to deliver the functionality of their code to end users in a fast way. One decision the developer has to make here is which abstraction layer to use for deployment - container or application.
+Kubernetes and Cloud Foundry are very popular options to deploy and run Microservices successfully by providing the 2 approaches. The following questions in context of those 2 approaches will be answered.
+
+* What does it really take to get your application and required backend services up and running successfully on either platform? 
+* How many configuration steps are in fact required and where are the hidden pitfalls? 
+* How easy do you scale, recover from failure or update the application without downtime? 
+* What kind of a difference does the level of abstraction "Bring your own code vs. Bring your own container" mean in the end?
+
+In my role as Cloud consultant and university lecturer for distributed systems I come across these topics a lot and want to share my experience with this talk. I will analyse the differences between the two platforms as seen from a developer's perspective from getting started to running successfully. The comparison is based on a Spring Boot sample app. The talk includes a live demo of those steps.
+From my experience there is no clear guidance or best practices when deciding between PaaS and CaaS when it comes to the perspective of the developer. Most comparisons are around operations, management, installation, footprint etc. This talk tries to address the focus on the dev side and helps developers to decide which approach to move forward with.
