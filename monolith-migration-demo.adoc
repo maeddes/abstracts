@@ -1,0 +1,11 @@
+=== Live Migration of a JavaEE Monolith to different cloud platforms
+
+The intention of this talk is to show a live step-by-step approach to migrate a monolithic WebSphere application to various cloud-native platforms like Docker&Kubernetes and Cloud Foundry. It starts showing the application running in it’s WebSphere environments and finishes running the migrated app on Cloud Foundry. On the migration journey the following steps are shown:
+* Deployment and runtime on WebSphere
+* Analysis of application in terms of required code changes and connected backend services
+* Configuration and bring up of the application on WebSphere Liberty Profile
+* Deployment and runtime on PCF Dev using Community Buildpack for Liberty
+* Migration of backend services to Cloud Platform (Microsoft Azure in this example)
+* Deployment and runtime of application on PCF on Azure
+* Application of strangler pattern to start slicing the monolith into Microservices.
+It is based on a talk given at the User track of Cloud Foundry Summit in Basel 2018. It was received very well, got a lot of good feedback and brought up interesting discussions with the attendees. While this talk was very conceptual, this new version is intended to demonstrate the involved steps in a live example and perform the migration within the given time of 30 minutes.
