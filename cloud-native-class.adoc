@@ -51,6 +51,14 @@ _The student is able to build a Spring Boot application (or extend an existing o
 
 == Module: Configuration & Profiles
 
+* Spring profiles
+* Various possibilities of external configuration in Spring (Boot)
+* Order of configuration options
+* //TODO move config server over here from Spring Cloud Services
+
+=== Objectives and exercises
+_The student is able to build a Spring Boot application with various configuration profiles and knows how to set the desired one at runtime. The exercise is to extend the existing persistence application and provide different persistence backend for different purposes, e.g. set an in-memory database for development and test purposes and a containerized one for production._
+
 == Module: Communication & Messaging
 
 == Module: UI
