@@ -1,0 +1,11 @@
+If you want to adapt Kubernetes as runtime platform of a professional software development cycle you will soon come to the point of integrating it into an efficient continuous integration and delivery workflow. In the landscape of build server has concourse become a popular alternative to Jenkins due to its cloud-native nature. Concourse provides a flexible pipeline that is fully containerized and has gained popularity as a easy-to-understand CI/CD tool with examples like Cloud Foundry or BOSH.
+The talk is intended for Dev and Ops that consider using Concourse with Kubernetes. It shows how you can use the Kubernetes community resources to deploy your app to Kubernetes as part of a Concourse CI/CD pipeline. This includes the following steps
+
+* building code
+* building container image
+* pushing the image to a container registry
+* deployment to Kubernetes
+* testing
+
+The talk will also try to highlight certain differences between Concourse and Jenkins in terms of usage with Kubernetes.
+The intended take-away for the audience is a basic understanding of setup and usage of Concourse to improve your continuous Kubernetes experience.
