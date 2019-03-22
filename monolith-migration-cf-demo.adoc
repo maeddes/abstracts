@@ -1,6 +1,6 @@
 == Live Migration of a JavaEE Monolith to different cloud platforms
 
-The intention of this talk is to show a live step-by-step approach to migrate a monolithic WebSphere application to various cloud-native platforms like Docker&Kubernetes and Cloud Foundry. It starts showing the application running in it’s WebSphere environments and finishes running the migrated app on Cloud Foundry. On the migration journey the following steps are shown:
+The intention of this talk is to show a live step-by-step approach to migrate a monolithic WebSphere application to Cloud Foundry. It starts showing the application running in it’s WebSphere environments and finishes running the migrated app on Cloud Foundry. On the migration journey the following steps are shown:
 
 * Deployment and runtime on WebSphere
 * Analysis of application in terms of required code changes and connected backend services
