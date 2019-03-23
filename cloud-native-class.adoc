@@ -61,6 +61,16 @@ _The student is able to build a Spring Boot application with various configurati
 
 == Module: Communication & Messaging
 
+* Asynchronous and synchronous communication
+* Queues and topics, PTP and Pub-Sub
+* Synchronous communication with RestTemplate and Feign
+* Smart endpoints and dumb pipes vs. ESB
+* Asynchronous communication examples in Spring Boot with Redis and RabbitMQ
+
+=== Objectives and exercises
+_The student is able to build a Spring Boot application with various configuration profiles and knows how to set the desired one at runtime. The exercise is to extend the existing persistence application and provide different persistence backend for different purposes, e.g. set an in-memory database for development and test purposes and a containerized one for production._
+
+
 == Module: UI
 
 == Module: Cloud-native software development & Microservices (theory-block II)
