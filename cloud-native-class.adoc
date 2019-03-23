@@ -65,13 +65,11 @@ _The student is able to build a Spring Boot application with various configurati
 * Queues and topics, PTP and Pub-Sub
 * Synchronous communication with RestTemplate and Feign
 * Smart endpoints and dumb pipes vs. ESB
-* Asynchronous communication examples in Spring Boot with Redis and RabbitMQ
+* Asynchronous communication examples in Spring Boot with Redis, RabbitMQ and Apache Kafka
+* Spring Cloud Stream
 
 === Objectives and exercises
-_The student is able to build a Spring Boot application with various configuration profiles and knows how to set the desired one at runtime. The exercise is to extend the existing persistence application and provide different persistence backend for different purposes, e.g. set an in-memory database for development and test purposes and a containerized one for production._
-
-
-== Module: UI
+_The student understands the differences between asynchronous and synchronous communication in distributed systems and can explain it in own words. The exercise is to implement asynchronous communication between two systems using either RabbitMQ, Redis or Kafka._
 
 == Module: Cloud-native software development & Microservices (theory-block II)
 
@@ -84,6 +82,13 @@ _The student is able to build a Spring Boot application with various configurati
 == Module: Resilience
 
 == Module: Security
+
+=== Backlog
+
+== Module: UI
+== Module: Serverless (Knative, Spring Cloud Functions)
+== Module: CI/CD (Jenkins(X), Concourse, Spinnaker)
+
 
 
 
