@@ -73,6 +73,13 @@ _The student understands the differences between asynchronous and synchronous co
 
 == Module: Cloud-native software development & Microservices (theory-block II)
 
+* CAP Theorem
+* Conway's Law
+* Fallacies of distributed computing
+* Domain-Driven Design basics
+* 12-factor application
+* Evolution of applications and deployments: Monolithic -> Service-Oriented Architecture -> Microservices
+
 == Module: Spring Cloud Services
 
 == Module: Cloud Foundry
