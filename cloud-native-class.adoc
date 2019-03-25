@@ -86,6 +86,14 @@ _The student knows about the evolution of distributed systems and the drivers to
 
 == Module: Spring Cloud Services
 
+* Service Discovery with Eureka
+* Usage of Ribbon and Feign
+* External configuration with Spring Config server
+* Resilience with Hystrix
+
+=== Objectives and exercises
+_The student is able to use Spring Cloud Services and use them in the context of a distributed application. The exercise includes registering a service at Eureka as well as discovery and usage with help of Ribbon and Feign technologies, changing the configuration of a service during runtime with config server as well as using Hystrix on a failing call._
+
 == Module: Cloud Foundry
 
 == Module: Kubernetes
