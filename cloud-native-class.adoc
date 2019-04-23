@@ -111,7 +111,7 @@ _The student is able to use Spring Cloud Services and use them in the context of
 == Module: UI
 == Module: Serverless (Knative, Spring Cloud Functions)
 == Module: CI/CD (Jenkins(X), Concourse, Spinnaker)
-
+== Module: Service Mesh (Istio, Envoy, Linkerd...)
 
 
 
