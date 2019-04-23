@@ -2,6 +2,8 @@
 
 :toc:
 
+[cloud-intro]
+
 == Module: Cloud Introduction (theory-block I)
 
 * What is Cloud Computing? Encounters in everyday life and history
