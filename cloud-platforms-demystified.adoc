@@ -6,7 +6,7 @@ Containerisierung mit Docker ist bereits ein allgegenwärtiger Standard, um das 
 Mit diesen Optionen drängen sich natürlich auch Fragen auf:
 
 * Welche Plattform ist für welchen Anwendungszweck die richtige?
-* Wes empfiehlt sich für neue Entwicklung, was zur Migration bestehender Legacy Anwendungen?
+* Was empfiehlt sich für neue Entwicklung, was zur Migration bestehender Legacy Anwendungen?
 * Welches Programmiermodell passt zu welcher Plattform bzw. kann sie optimal ausnutzen?
 * Wieviel nimmt die Plattform dem Entwickler ab? Wieviel "Ops" Anteil wird vom Entwickler erwartet?
 * Wie gut und einfach sind die Plattform Lösungen verfügbar? Welche Anbieter gibt es? 
