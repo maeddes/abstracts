@@ -9,6 +9,7 @@ Mit diesen Optionen drängen sich natürlich auch Fragen auf:
 * Was empfiehlt sich für neue Entwicklung, was zur Migration bestehender Legacy Anwendungen?
 * Welches Programmiermodell passt zu welcher Plattform bzw. kann sie optimal ausnutzen?
 * Wieviel nimmt die Plattform dem Entwickler ab? Wieviel "Ops" Anteil wird vom Entwickler erwartet?
+* Wieviele Schritte brauche ich von der Code Repository bis zur Laufzeit in Produktion?
 * Wie gut und einfach sind die Plattform Lösungen verfügbar? Welche Anbieter gibt es? 
 * Welche Dinge sollte man besser wissen bevor man sich für eine Plattform entscheidet?
 
