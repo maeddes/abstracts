@@ -1,0 +1,33 @@
+Cloud Platform Fundamentals : Docker, Kubernetes & mehr
+ 
+Um moderne Anwendungen in der Cloud zu betreiben bieten sich Entwicklern heutzutage verschiedene Optionen. 
+Containerisierung mit Docker ist bereits ein allgegenwärtiger Standard, um das Thema Kubernetes besteht ein riesiger Hype, es gibt Platform as a Service (PaaS) Lösungen wie Cloud Foundry und im Blick in die nahe Zukunft kommt immer mehr das Thema Serverless auf den Radar. 
+Diese Veranstaltung vermittelt den Teilnehmern ein tiefgründiges Wissen und Hands-On Erfahrung mit den verschiedenen gegebenen Technologien. 
+Der Fokus hierbei liegt weniger auf der Architektur und Entwicklung der Software, sondern eher dem Deployment und Handling auf den verschiedenen Platform Optionen.
+ 
+Agenda:
+ 
+Docker Basics(2h)
+ 
+Deployment public image (PostGres)
+Build own image (mit provided code)
+Connect container, expose ports, run distributed app
+Opt: Wrap-up mit docker-compose
+ 
+Kubernetes (4h)
+ 
+Quick overview, artifacts – Disclaimer: Only dev, almost no Ops level
+Deployments, RS, Pods, Services
+Run same application
+Fail, recover, patch
+Opt: ConfigMaps, Secrets
+ 
+Options (2h)
+ 
+Cloud Foundry
+Knative
+Jenkins oder Concourse (CICD general)
+
+Technische Requirements: Die Übungsumgebungen werden den Teilnehmern zur Verfügung gestellt. Jeder Teilnehmer braucht einen eigenen Laptop/Workstation mit stabiler Internetverbindung sowie eines Tools für sichere Terminal Verbindungen (putty, ssh …)
+ 
+ 
