@@ -4,6 +4,7 @@ Um moderne Anwendungen in der Cloud zu betreiben bieten sich Entwicklern heutzut
 Containerisierung mit Docker ist bereits ein allgegenwärtiger Standard, um das Thema Kubernetes besteht ein riesiger Hype, es gibt Platform as a Service (PaaS) Lösungen wie Cloud Foundry und im Blick in die nahe Zukunft kommt immer mehr das Thema Serverless in den Fokus.
 
 Mit diesen Optionen drängen sich natürlich auch Fragen auf:
+
 * Welche Plattform ist für welchen Anwendungszweck die richtige?
 * Wes empfiehlt sich für neue Entwicklung, was zur Migration bestehender Legacy Anwendungen?
 * Welches Programmiermodell passt zu welcher Plattform bzw. kann sie optimal ausnutzen?
