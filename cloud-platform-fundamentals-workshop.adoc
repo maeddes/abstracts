@@ -9,7 +9,7 @@ Der Fokus hierbei liegt weniger auf der Architektur und Entwicklung der Software
 == Agenda:
 === Docker Basics (2h)
 - Container, Images und Registry 
-- Deployment eines Containers via Docker Hub (z.B. PostGres)
+- Deployment von Container via Docker Hub (z.B. postgres)
 - Erstellung einer Container Images mit Dockerfiles
 - Setup einer verteilten Anwendung in Containern
 - Konfiguration des Netzwerks, Verbinden von Containern
@@ -20,7 +20,7 @@ Der Fokus hierbei liegt weniger auf der Architektur und Entwicklung der Software
 - Strukturen und Artefakte: Deployments, ReplicaSets, Services und Pods
 - Deployment der zuvor erstellten Containern
 - DevOps Szenarien: Fail, Recover, Scale & Patch
-- Optional: externe Konfiguration, ConfigMaps,Secrets
+- Optional: externe Konfiguration, ConfigMaps, Secrets
  
 === Optional (2h)
 - PaaS Alternative: Cloud Foundry
