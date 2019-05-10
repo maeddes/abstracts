@@ -1,35 +1,32 @@
-Cloud Platform Hands-On : Docker & Kubernetes in der Praxis
- 
+= Cloud Platform Hands-On : Docker & Kubernetes in der Praxis
+
 Um moderne Anwendungen in der Cloud zu betreiben bieten sich Entwicklern heutzutage verschiedene Optionen. 
 Containerisierung mit Docker ist bereits ein allgegenwärtiger Standard, um das Thema Kubernetes besteht ein riesiger Hype und im Blick in die nahe Zukunft kommt immer mehr das Thema Serverless auf den Radar. 
 Diese Veranstaltung vermittelt den Teilnehmern ein tiefgründiges Wissen und Hands-On Erfahrung mit den verschiedenen gegebenen Technologien. 
+Zusätzlich werden viele Einblicke aus verschiedenen Projekten inklusive erkannter Best- und Worst-Practices vermittelt
 Der Fokus hierbei liegt weniger auf der Architektur und Entwicklung der Software, sondern eher dem Deployment und Handling auf den verschiedenen Platform Optionen.
  
-Agenda:
- 
-Docker Basics (2h)
- 
+== Agenda:
+=== Docker Basics (2h)
 - Container, Images und Registry 
 - Deployment eines Standard containers (z.B. PostGres)
 - Erstellung eines eigenen Containers mit Dockerfile
 - Setup einer verteilten Anwendung in Container
 - Konfiguration des Netzwerks, Verbinden von Containern
 - Optional: Verwendung von docker-compose
- 
-Kubernetes (4h)
- 
-Quick overview, artifacts – Disclaimer: Only dev, almost no Ops level
-Deployments, RS, Pods, Services
-Run same application
-Fail, recover, patch
-Opt: ConfigMaps, Secrets
- 
-Options (2h)
- 
-Cloud Foundry
-Knative
-Jenkins oder Concourse (CICD general)
 
-Technische Requirements: Die Übungsumgebungen werden den Teilnehmern zur Verfügung gestellt. Jeder Teilnehmer braucht einen eigenen Laptop/Workstation mit stabiler Internetverbindung sowie eines Tools für sichere Terminal Verbindungen (putty, ssh …)
+=== Kubernetes (4h)
+- Grundlagen (Aus Dev-Perspektive, kein Operations Level)
+- Strukturen und Artefakte: Deployments, ReplicaSets, Services und Pods
+- Deployment der zuvor erstellten Containern
+- DevOps Szenarien: Fail, Recover, Patch
+- Optional: externe Konfiguration, Secrets
  
- 
+=== Optional (2h)
+- PaaS: Cloud Foundry
+- Functions auf Kubernetes: KNative
+- DevOps und CI/CD mit Containern
+
+=== Technische Anforderungen: 
+Die Teilnehmer werden auf einer zur Verfügung stehenden Cloud Umgebung arbeiten können.
+Dazu werden eigener Laptop/Workstation mit stabiler Internetverbindung ein Tool für sichere Terminal Verbindungen (putty, ssh oder ähnlich) benötigt.
