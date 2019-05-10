@@ -9,22 +9,22 @@ Der Fokus hierbei liegt weniger auf der Architektur und Entwicklung der Software
 == Agenda:
 === Docker Basics (2h)
 - Container, Images und Registry 
-- Deployment eines Standard containers (z.B. PostGres)
-- Erstellung eines eigenen Containers mit Dockerfile
-- Setup einer verteilten Anwendung in Container
+- Deployment eines Containers via Docker Hub (z.B. PostGres)
+- Erstellung einer Container Images mit Dockerfiles
+- Setup einer verteilten Anwendung in Containern
 - Konfiguration des Netzwerks, Verbinden von Containern
 - Optional: Verwendung von docker-compose
 
 === Kubernetes (4h)
-- Grundlagen (Aus Dev-Perspektive, kein Operations Level)
+- Grundlagen (Dev-Perspektive, kein Operations Level)
 - Strukturen und Artefakte: Deployments, ReplicaSets, Services und Pods
 - Deployment der zuvor erstellten Containern
-- DevOps Szenarien: Fail, Recover, Patch
-- Optional: externe Konfiguration, Secrets
+- DevOps Szenarien: Fail, Recover, Scale & Patch
+- Optional: externe Konfiguration, ConfigMaps,Secrets
  
 === Optional (2h)
-- PaaS: Cloud Foundry
-- Functions auf Kubernetes: KNative
+- PaaS Alternative: Cloud Foundry
+- Serverless mit Kubernetes: Knative
 - DevOps und CI/CD mit Containern
 
 === Technische Anforderungen: 
