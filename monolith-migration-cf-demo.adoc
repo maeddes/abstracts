@@ -11,3 +11,20 @@ The intention of this talk is to show a live step-by-step approach to migrate a 
 * Application of strangler pattern to start slicing the monolith into Microservices.
 
 It is based on a talk given at the User track of Cloud Foundry Summit in Basel 2018. It was received very well, got a lot of good feedback and brought up interesting discussions with the attendees. While this talk was very conceptual, this new version is intended to demonstrate the involved steps in a live example and perform the migration within the given time of 30 minutes.
+
+
+
+
+== PaaSts ?! Live Migration eines JavaEE Monolithen zu verschiedenen Cloud Plattformen
+
+Mit dieser Session zeigen wir live einen Schritt-für-Schritt Ansatz zur Migration einer monolithischen WebSphere Anwendung zu Cloud Foundry und Kubernetes. Wir beginnen mit der Anwendung laufend in der WebSphere Umgebung und Enden mit der migrierten App auf einer Cloud Platform. Unser Migrationsreise zeigt folgende Schritte:
+
+* Deployment und Laufzeitumgebung WebSphere
+* Analyse der Anwendung hinsichtlich Codeänderungen und Kompatibilität der Backendsysteme
+* Konfiguration und Boot der Anwendung auf WebSphere Liberty Profile
+* Deployment auf PCF Dev / Minikube
+* Migration der Backend Services auf managed Services
+* Deployment auf Cloud Platform
+* Anwendung des Strangler Pattern zur Transformation des Monolithen zu Microservices
+
+Aufbauend auf einem konzeptionellen Vortrag den wir im Jahr 2018 auf mehreren Konferenzen (unter anderem Cloud Foundry Summit, WJAX und OOP) gehalten haben, zeigen wir nun, wie die Konzepte umgesetzt werden können.
