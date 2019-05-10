@@ -1,15 +1,15 @@
-Cloud Plattformen "entmystifiziert": Docker, Kubernetes, Cloud Foundry & Knative. Was genau kann welche und welche nehme ich wann?
+== Cloud Plattformen "entmystifiziert": Docker, Kubernetes, Cloud Foundry & Knative. Was genau kann welche und welche nehme ich wann?
 
 Um moderne Anwendungen in der Cloud zu betreiben bieten sich Entwicklern heutzutage verschiedene Optionen. 
 Containerisierung mit Docker ist bereits ein allgegenwärtiger Standard, um das Thema Kubernetes besteht ein riesiger Hype, es gibt Platform as a Service (PaaS) Lösungen wie Cloud Foundry und im Blick in die nahe Zukunft kommt immer mehr das Thema Serverless in den Fokus.
 
 Mit diesen Optionen drängen sich natürlich auch Fragen auf:
-- Welche Platform ist für welchen Anwendungszweck die richtige?
-- Wes empfiehlt sich für neue Entwicklung, was zur Migration bestehender Legacy Anwendungen?
-- Welches Programmiermodell passt zu welcher Platform bzw. kann sie optimal ausnutzen?
-- Wieviel nimmt die Platform dem Entwickler ab? Wieviel "Ops" Anteil wird vom Entwickler erwartet?
-- Wie gut und einfach sind die Platform Lösungen verfügbar? Welche Anbieter gibt es? 
-- Welche Dinge sollte man besser wissen bevor man sich für eine Platform entscheidet?
+* Welche Plattform ist für welchen Anwendungszweck die richtige?
+* Wes empfiehlt sich für neue Entwicklung, was zur Migration bestehender Legacy Anwendungen?
+* Welches Programmiermodell passt zu welcher Plattform bzw. kann sie optimal ausnutzen?
+* Wieviel nimmt die Plattform dem Entwickler ab? Wieviel "Ops" Anteil wird vom Entwickler erwartet?
+* Wie gut und einfach sind die Plattform Lösungen verfügbar? Welche Anbieter gibt es? 
+* Welche Dinge sollte man besser wissen bevor man sich für eine Plattform entscheidet?
 
 In meiner Rolle als Cloud Advocate und Hochschul-Dozent für Cloud-Native Software Development begegne ich diesen Fragen sehr oft sowohl von Kunden als auch von Skill Aufbau Seite.
-Die Einsichten und Erkenntnisse die ich in den letzten Jahren in diesem Bereich erhalten habe möchte ich gern mit diesem Vortrag weitergeben.
+Die Einsichten und Erkenntnisse die ich in den letzten Jahren in diesem Bereich erhalten habe möchte ich gern mit diesem Vortrag weitergeben. Er beinhaltet eine Historie der Entwicklung von monolithischer Application Server Architektur bis hin zu Serverless und zeigt es an den technologischen Beispielen Docker, Kubernetes, Cloud Foundry & Knative.
