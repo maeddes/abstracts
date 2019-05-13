@@ -7,5 +7,5 @@ The talk is intended for Dev and Ops that consider using Concourse with Kubernet
 * deployment to Kubernetes
 * testing
 
-The talk will also try to highlight certain differences between Concourse and Jenkins in terms of usage with Kubernetes.
+The talk will also try to highlight certain differences between Concourse and Jenkins in terms of usage with Kubernetes and the lessons we have learned using this in a project over the last year.
 The intended take-away for the audience is a basic understanding of setup and usage of Concourse to improve your continuous Kubernetes experience.
