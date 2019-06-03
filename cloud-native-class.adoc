@@ -100,7 +100,21 @@ _The student is able to use Spring Cloud Services and use them in the context of
 
 == Module: Cloud Foundry
 
+* Introduction. Concept of PaaS and Cloud Foundry
+* Applications & Services
+* Buildpacks
+* CF CLI
+* Quotas, Domains, Orgs & Spaces
+* Providers
+
+=== Objectives and exercises
+_The student is able to explain the concept and behaviour of Cloud Foundry, use the CLI to deploy applications and bind services. The exercise is to deploy a previously build application, bind it to a database backend and perform typical cloud operations like scaling, auto-recovery, zero-downtime patching etc._
+
 == Module: Kubernetes
+
+* Overview of Kubernetes setup and architecture.
+* Understanding of Kubernetes base artifacts: Pods, ReplicaSets, Deployments & Services
+* Workflow to containerize an application and deploy it to a Kubernetes cluster
 
 == Module: Resilience
 
