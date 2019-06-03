@@ -94,6 +94,7 @@ _The student knows about the evolution of distributed systems and the drivers to
 * Usage of Ribbon and Feign
 * External configuration with Spring Config server
 * Resilience with Hystrix
+* //TODO: API Gateways with Zuul
 
 === Objectives and exercises
 _The student is able to use Spring Cloud Services and use them in the context of a distributed application. The exercise includes registering a service at Eureka as well as discovery and usage with help of Ribbon and Feign technologies, changing the configuration of a service during runtime with config server as well as using Hystrix on a failing call._
@@ -115,14 +116,30 @@ _The student is able to explain the concept and behaviour of Cloud Foundry, use 
 * Overview of Kubernetes setup and architecture.
 * Understanding of Kubernetes base artifacts: Pods, ReplicaSets, Deployments & Services
 * Workflow to containerize an application and deploy it to a Kubernetes cluster
+* Kubernetes behaviour
+
+=== Objectives and exercises
+_The student is able to explain the concept and behaviour of Cloud Foundry, use the CLI to deploy applications and bind services. The exercise is to deploy a previously build application, bind it to a database backend and perform typical cloud operations like scaling, auto-recovery, zero-downtime patching etc._
 
 == Module: Resilience
 
+* Why resilience in distributed environments?
+* Patterns: Timeouts, Redundancy, Back Pressure, Bulk Heads, Circuit Breaker
+* Implementation of those patterns across various levels: Application, Container, Platform, Network
+
+=== Objectives and exercises
+_The student is able to explain the need for resilience patterns in distributed systems. The exercise is to implement various options across the various abstraction layers of a distributed application environment._
+
 == Module: Security
+
+* Spring Security
+* Cloud Foundry Security
+* Kubernetes Security
+* Hashicorp Vault
 
 = Backlog
 
-== Module: UI
+== Module: UI (various frameworks, REST interaction)
 == Module: Serverless (Knative, Spring Cloud Functions)
 == Module: CI/CD (Jenkins(X), Concourse, Spinnaker)
 == Module: Service Mesh (Istio, Envoy, Linkerd...)
