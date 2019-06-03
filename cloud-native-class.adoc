@@ -119,7 +119,7 @@ _The student is able to explain the concept and behaviour of Cloud Foundry, use 
 * Kubernetes behaviour
 
 === Objectives and exercises
-_The student is able to explain the concept and behaviour of Cloud Foundry, use the CLI to deploy applications and bind services. The exercise is to deploy a previously build application, bind it to a database backend and perform typical cloud operations like scaling, auto-recovery, zero-downtime patching etc._
+_The student is able to explain the concept and behaviour of Kubernetes, use the CLI to deploy containers and expose them via services. The exercise is to deploy a previously build application, bind it to a database backend and perform typical cloud operations like scaling, auto-recovery, zero-downtime patching etc._
 
 == Module: Resilience
 
@@ -143,6 +143,7 @@ _The student is able to explain the need for resilience patterns in distributed 
 == Module: Serverless (Knative, Spring Cloud Functions)
 == Module: CI/CD (Jenkins(X), Concourse, Spinnaker)
 == Module: Service Mesh (Istio, Envoy, Linkerd...)
+== Module: Observability and Monitoring
 
 
 
