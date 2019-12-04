@@ -1,17 +1,17 @@
-== Cloud Plattformen "entmystifiziert": Docker, Kubernetes, Cloud Foundry & Knative. Was genau kann welche und welche nehme ich wann?
+Abstract:
 
-Um moderne Anwendungen in der Cloud zu betreiben bieten sich Entwicklern heutzutage verschiedene Optionen. 
-Containerisierung mit Docker ist bereits ein allgegenwärtiger Standard, um das Thema Kubernetes besteht ein riesiger Hype, es gibt Platform as a Service (PaaS) Lösungen wie Cloud Foundry und im Blick in die nahe Zukunft kommt immer mehr das Thema Serverless in den Fokus.
+Containers, applications, functions: When deploying workloads to Kubernetes, developers have various options. With this talk, we focus on Kubernetes and compare how Cloud Foundry and Knative can improve and extend it.
 
-Mit diesen Optionen drängen sich natürlich auch Fragen auf:
+We'll compare and contrast the latest experiences of those platforms in order to extract a meaningful comparison of their features from a developer perspective, providing answers to the following questions:
 
-* Welche Plattform ist für welchen Anwendungszweck die richtige?
-* Was empfiehlt sich für neue Entwicklung, was zur Migration bestehender Legacy Anwendungen?
-* Welches Programmiermodell passt zu welcher Plattform bzw. kann sie optimal ausnutzen?
-* Wieviel nimmt die Plattform dem Entwickler ab? Wieviel "Ops" Anteil wird vom Entwickler erwartet?
-* Wieviele Schritte brauche ich von der Code Repository bis zur Laufzeit in Produktion?
-* Wie gut und einfach sind die Plattform Lösungen verfügbar? Welche Anbieter gibt es? 
-* Welche Dinge sollte man besser wissen bevor man sich für eine Plattform entscheidet?
+Which type of workloads are suitable for which platform?
+Where are the differences/where are the overlaps?
+How mature are the individual solutions?
+How simple and user-friendly are they?
 
-In meiner Rolle als Cloud Advocate und Hochschul-Dozent für Cloud-Native Software Development begegne ich diesen Fragen sehr oft sowohl von Kunden als auch von Skill Aufbau Seite.
-Die Einsichten und Erkenntnisse die ich in den letzten Jahren in diesem Bereich erhalten habe möchte ich gern mit diesem Vortrag weitergeben. Er beinhaltet eine Historie der Entwicklung von monolithischer Application Server Architektur bis hin zu Serverless und zeigt es an den technologischen Beispielen Docker, Kubernetes, Cloud Foundry & Knative.
+Additionally, we'll measure and compare key metrics that affect the developer experience (e.g., time to deploy, time to scale, and other such metrics). The overall goal is to better understand what makes each individual useful in the best way and how they can work together.
+
+Benefits:
+
+Learning how to use Kubernetes from a developer perspective can be hard and time consuming. A lot of the plain components are very infrastructure and less application workload focussed. Knative and (the new Kubernetes integerated) version of Cloud Foundry can extend Kubernetes and provide Platform as a Service and Function as a Service abstraction layer. Hence developer end-users can focus on providing function and application artefacts instead of building containers and working with Deployments, ReplicaSets and Pods. 
+Kubernetes provides the underlying scheduling engine with all it's benefits of automatic recovery, (auto) scaling, scheduling, rolling updates etc. However the complexity is abstracted away and new functionality like "Bring your own code" instead of "Bring your own container" as well as auto-scaling based on requests even down to zero instances is added.
