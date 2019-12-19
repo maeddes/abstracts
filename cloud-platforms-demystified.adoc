@@ -1,3 +1,20 @@
+== Cloud Platforms demystified: Docker, Kubernetes, Cloud Foundry & Knative. 
+
+Abstract:
+
+Containers, applications, functions: When deploying workloads to Kubernetes, developers have various options. With this talk, we focus on Kubernetes and compare how Cloud Foundry and Knative can improve and extend it.
+
+We’ll compare and contrast the latest experiences of those platforms in order to extract a meaningful comparison of their features from a developer perspective, providing answers to the following questions:
+
+Which type of workloads are suitable for which platform? Where are the differences/where are the overlaps? How mature are the individual solutions? How simple and user-friendly are they?
+
+Additionally, we’ll measure and compare key metrics that affect the developer experience (e.g., time to deploy, time to scale, and other such metrics). The overall goal is to better understand what makes each individual useful in the best way and how they can work together.
+
+Benefits:
+
+Learning how to use Kubernetes from a developer perspective can be hard and time consuming. A lot of the plain components are very infrastructure and less application workload focussed. Knative and (the new Kubernetes integerated) version of Cloud Foundry can extend Kubernetes and provide Platform as a Service and Function as a Service abstraction layer. Hence developer end-users can focus on providing function and application artefacts instead of building containers and working with Deployments, ReplicaSets and Pods. Kubernetes provides the underlying scheduling engine with all it’s benefits of automatic recovery, (auto) scaling, scheduling, rolling updates etc. However the complexity is abstracted away and new functionality like "Bring your own code" instead of "Bring your own container" as well as auto-scaling based on requests even down to zero instances is added.
+
+
 == Cloud Plattformen "entmystifiziert": Docker, Kubernetes, Cloud Foundry & Knative. Was genau kann welche und welche nehme ich wann?
 
 Um moderne Anwendungen in der Cloud zu betreiben bieten sich Entwicklern heutzutage verschiedene Optionen. 
