@@ -2,7 +2,7 @@
 
 Abstract:
 
-Containers, applications, functions: When deploying workloads to Kubernetes, developers have various options. This talk focusses on Kubernetes and compares how Cloud Foundry and Knative can improve and extend it.
+Containers, applications, functions: When deploying workloads to Kubernetes, developers have various options. This talk focusses on Kubernetes and compares how Cloud Foundry and Knative relate to it and also how they can extend and improve it.
 
 I’ll compare and contrast the latest experiences of those platforms in order to extract a meaningful comparison of their features from a developer perspective, providing answers to the following questions:
 
