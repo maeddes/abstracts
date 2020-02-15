@@ -12,6 +12,9 @@ A very typical path for getting your appliations from development to production 
 Tekton originated from the Knative project and can be-used stand-alone as well as part of other CI/CD solutions like Jenkins-X.
 Kpack uses and evolved out of the cloud-native buildpacks project buildpacks.io. It was open-sourced by Pivotal in late 2019.
 
+Pitch:
+There are multiple ways to get your Spring app from code repo to production in continuous fashion, which is a task pretty much every software product faces. With this talk we want to compare two solutions, which are designed both to run and deploy to Kubernetes in a resilient and efficient way.
+
 Adrian version:
 Kubernetes has become the number one place to run your applications in the cloud. 
 But its not only the applications that need to adapt to the new challenges. 
