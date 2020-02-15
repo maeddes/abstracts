@@ -7,6 +7,11 @@ Tekton and Kpack are the two examples being examined in this talk. It will provi
 like user friendliness, setup and configuration, robustness, operability, integration with tools and credential handling.
 The majority of the evaluation will be shown in a live demo.
 
+A very typical path for getting your appliations from development to production involves the following steps: Build the code, package the artifact into a container, put the container into a registry and deploy it to Kubernetes. Many Continuous Integation (CI) Tools have already adapted to the trend of containerized pipelines and being fully based on Kubernetes itself. Tekton and kpack are the two Open Source examples being examined in this talk. It will provide a comparison of the two technologies with evaluation criteria like user friendliness, setup and configuration, robustness, hooks, credential handling and integration possibilities with related tools and frameworks. The majority of the evaluation will be shown in a live demo.
+
+Tekton originated from the Knative project and can be-used stand-alone as well as part of other CI/CD solutions like Jenkins-X.
+Kpack uses and evolved out of the cloud-native buildpacks project buildpacks.io. It was open-sourced by Pivotal in late 2019.
+
 Adrian version:
 Kubernetes has become the number one place to run your applications in the cloud. 
 But its not only the applications that need to adapt to the new challenges. 
