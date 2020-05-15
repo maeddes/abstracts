@@ -32,3 +32,5 @@ Mit diesen Optionen drängen sich natürlich auch Fragen auf:
 
 In meiner Rolle als Cloud Advocate und Hochschul-Dozent für Cloud-Native Software Development begegne ich diesen Fragen sehr oft sowohl von Kunden als auch von Skill Aufbau Seite.
 Die Einsichten und Erkenntnisse die ich in den letzten Jahren in diesem Bereich erhalten habe möchte ich gern mit diesem Vortrag weitergeben. Er beinhaltet eine Historie der Entwicklung von monolithischer Application Server Architektur bis hin zu Serverless und zeigt es an den technologischen Beispielen Docker, Kubernetes, Cloud Foundry & Knative.
+
+Ziel ist es dem Publikum ein Verständnis über die Unterschiede und Überschneidungen der Plattformen zu geben. In meiner Rolle als Cloud Advocate und Hochschul-Dozent für Cloud-Native Software Development begegne ich diesen Fragen sehr oft sowohl von Kunden als auch von Skill Aufbau Seite. Die Einsichten und Erkenntnisse die ich in den letzten Jahren in diesem Bereich erhalten habe möchte ich gern mit diesem Vortrag weitergeben. 
