@@ -1,9 +1,11 @@
 Howto: From source code to container runtime
 
 short:
+
 The broad adoption of container technology mostly driven by the rise of Docker and Kubernetes has changed the skill expectation towards developers. It is not only required any more to be knowledgeable about the programming language, framework and respective build process. The steps of how to containerize it and deploy it also has become a standard. This talk will show various options to do so.
 
 long:
+
 A typical workflow in a modern software dev project can look like:
 Build code, put built artifact into container image, put container image into registry, deploy to Kubernetes. Each step has it's own requirements and pitfalls alike. The overall goal is most often to bake those steps into easily repeatable pipelines and enable a high degree of automation.
 
