@@ -1,4 +1,4 @@
-== Cloud Platforms demystified: Docker, Kubernetes, Cloud Foundry & Knative. 
+== Open Source Cloud Platforms demystified: Docker, Kubernetes, Cloud Foundry & Knative. 
 
 Abstract:
 
