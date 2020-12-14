@@ -10,6 +10,17 @@ How simple and user-friendly are they? Where are the differences/where are the o
 
 Additionally, I’ll measure and compare key metrics that affect the developer experience (e.g., time to deploy, time to scale, and more). The overall goal is to better understand what makes each individual useful in the best way and how they can work together.
 
+Alternative 101:
+
+Getting started and learning how to use Kubernetes from a developer perspective can be hard and non-intuitive in the first place. It requires the understanding and correct usage of the base artifacts like Deployments, ReplicaSets, Pods and Services to properly benefit from the features like automatic recovery, (auto) scaling, load balancing, rolling updates etc.
+
+Due to the adoption and high popularity of Kubernetes a lot of Open Source technologies have either been built on top or converged with Kubernetes to both make the life of developers easier and to improve the functional scope of it.
+
+This talk will give insight on the examples of Knative, OpenShift and Cloud Foundry to show how they relate both from a historical evolution perspective and the way they approach to improve the Kubernetes developer experience. This covers aspects like support for support for serverless workloads, hiding the container abstraction and Kubernetes complexity, weighted routing and more.
+
+The level of this talk is 101. It will introduce the basic Kubernetes principles and how the extensions relate to it.
+
+
 Benefits:
 
 Learning how to use Kubernetes from a developer perspective can be hard and time consuming. A lot of the plain components are very infrastructure and less application workload focussed. Knative and (the new Kubernetes integerated) version of Cloud Foundry can extend Kubernetes and provide Platform as a Service and Function as a Service abstraction layer. Hence developer end-users can focus on providing function and application artefacts instead of building containers and working with Deployments, ReplicaSets and Pods. Kubernetes provides the underlying scheduling engine with all it’s benefits of automatic recovery, (auto) scaling, scheduling, rolling updates etc. However the complexity is abstracted away and new functionality like "Bring your own code" instead of "Bring your own container" as well as auto-scaling based on requests even down to zero instances is added.
