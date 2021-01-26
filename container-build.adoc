@@ -15,3 +15,15 @@ The talk will give deeper insights by comparing (multi-stage) Dockerfiles to Clo
 The examples and live demo will have certain focus on Java-based frameworks (Spring Boot, Quarkus, Java EE), but coverage of other languages will also be included and highlighted.
 
 The intented take-away of the session is a better overview of container building and deployment options along with understanding of requirements, advantages and drawbacks.
+
+
+Ein typischer Workflow in moderner Software Entwicklung beinhaltet oft folgende Schritte:
+Den Code in eine git Repo, kompilieren, ein Container Image bauen, das Image in eine Registry und Deployment auf einen Kubernetes Cluster.
+
+Jeder Schritt hat seine eigenen Anforderungen und Herausforderungen. Das große gemeinsame Ziel ist es zumeist diese Schritte in eine wiederholbare Pipeline zu bekommen und so den Grad der Automation zu erhöhen.
+
+Gerade in dem Bereich der Container Images scheinen Dockerfiles die Option mit der größten Akzeptanz zu sein. Es gibt jedoch mittlerweile einige Alternativen, die ein paat Stolperfallen vermeiden und diesen Teil des Prozesses noch mehr standardisieren können.
+
+Dieser Vortrag gibt tiefere Einblicke in diese Optionen und vergleicht (multi-stage) Dockerfiles mit Cloud-Native Buildpacks, Paketo und Google's JIB anhand der Kriterien Geschwindigkeit, Größe des Image, Standardisierung, Robustheit und Sicherheit. Die Beispiele und live Demo haben einen gewissen Fokus auf Java-basierte Frameworks (Spring Boot, Quarkus, Micronaut), aber auch andere Programmiersprachen werden behandelt.
+
+Das gewünschte "take-away" dieses Vortrags ist ein besserer Übernlick über den Container Build Mechanismus und die verschiedenen Optionen hierbei sowie ein Verständnis der Anforderungen, Vorteile und Nachteile dieser Varianten.
