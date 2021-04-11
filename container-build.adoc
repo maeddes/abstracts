@@ -22,8 +22,8 @@ Den Code in eine git Repo, kompilieren, ein Container Image bauen, das Image in 
 
 Jeder Schritt hat seine eigenen Anforderungen und Herausforderungen. Das große gemeinsame Ziel ist es zumeist diese Schritte in eine wiederholbare Pipeline zu bekommen und so den Grad der Automation zu erhöhen.
 
-Gerade in dem Bereich der Container Images scheinen Dockerfiles die Option mit der größten Akzeptanz zu sein. Es gibt jedoch mittlerweile einige Alternativen, die ein paat Stolperfallen vermeiden und diesen Teil des Prozesses noch mehr standardisieren können.
+Gerade in dem Bereich der Container Images scheinen Dockerfiles die Option mit der größten Akzeptanz zu sein. Es gibt jedoch mittlerweile einige Alternativen, die ein paar Stolperfallen vermeiden und diesen Teil des Prozesses noch mehr standardisieren können.
 
 Dieser Vortrag gibt tiefere Einblicke in diese Optionen und vergleicht (multi-stage) Dockerfiles mit Cloud-Native Buildpacks, Paketo und Google's JIB anhand der Kriterien Geschwindigkeit, Größe des Image, Standardisierung, Robustheit und Sicherheit. Die Beispiele und live Demo haben einen gewissen Fokus auf Java-basierte Frameworks (Spring Boot, Quarkus, Micronaut), aber auch andere Programmiersprachen werden behandelt.
 
-Das gewünschte "take-away" dieses Vortrags ist ein besserer Übernlick über den Container Build Mechanismus und die verschiedenen Optionen hierbei sowie ein Verständnis der Anforderungen, Vorteile und Nachteile dieser Varianten.
+Das gewünschte "take-away" dieses Vortrags ist ein besserer Überblick über den Container Build Mechanismus und die verschiedenen Optionen hierbei sowie ein Verständnis der Anforderungen, Vorteile und Nachteile dieser Varianten.
