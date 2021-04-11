@@ -12,3 +12,15 @@ For each level of observability the user has to pay a certain price in terms of 
 The intended take-away is to get a feeling which type of tooling is the right one for a given purpose.
 The options will be mostly demonstrated in a live demonstration.
 ![image](https://user-images.githubusercontent.com/11751587/111759122-91113880-889d-11eb-9166-7349f0cc32b2.png)
+
+Was geht ab in meinem Cluster?
+
+Kubernetes kann schwierig sein. Nicht nur die initiale Lernkurve und das Verständnis der Konzepte, sondern auch der Aspekt den Überblick zu behalten was in und um den Cluster herum so passiert kann schwierig sein. Wie mann jemand schnell und einfach sehen und sagen, ob der Cluster gesund und gut ausgelastet ist sowie, daß die Anwendungen korrekt laufen?
+
+Dieser Vortrag beabsichtige die unterschiedlichen Flughöhen der Kubernetes "observability" zu beleuchten und verschiedene Open Source Tools dafür vorzusetellen und zu vergleichen.
+
+Der Umfang geht hier von einfachen Tools, die eine vereinfachte Visualisierung der Kubernetes API bieten, deckt darüber hinaus die Möglichkeiten von sogenannten Service Meshes ab und geht bis zum anwendungsseitigem Logging und Monitoring.
+For jedes Level bezahlten Kubernetes Nutzer einen gewissen Preis in Punkto Konfiguration und Overhead. Im Gegenzug steigt die Detailtiefe und Qualität der dargestellten Informationen.
+
+Gewünschtes "Take-Away" von diesem Vortrag ist ein Gefühl zu bekommen welche Kubernetes Tools die Passenden sind für den gegebenen Anlass.
+Die Optionen werden größtenteils in einer Live Demo gezeigt.
