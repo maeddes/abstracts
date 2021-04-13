@@ -1,6 +1,6 @@
 What is going on in my cluster?
 
-Kubernetes can be hard. Not only in the initial learning and understanding of the concepts, but also the aspect of keeping an overview of what is happening in and aroud the cluster can be challenging.
+Kubernetes can be hard. Not only in the initial learning and understanding of the concepts, but also the aspect of keeping an overview of what is happening in and around the cluster can be challenging.
 How can you quickly and easily tell if the cluster is healthy, well utilised and if all applications are running fine?
 
 This talk intends to look at the various aspects of Kubernetes observability and to introduce and compares multiple Open Source tools to achieve that.
