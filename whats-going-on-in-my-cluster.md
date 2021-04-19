@@ -24,3 +24,12 @@ For jedes Level bezahlten Kubernetes Nutzer einen gewissen Preis in Punkto Konfi
 
 Gewünschtes "Take-Away" von diesem Vortrag ist ein Gefühl zu bekommen welche Kubernetes Tools die Passenden sind für den gegebenen Anlass.
 Die Optionen werden größtenteils in einer Live Demo gezeigt.
+
+short:
+
+Den Überblick über die Geschehnisse im und rund um den Kubernetes Cluster zu bewahren stellt viele vor eine gewisse Herausforderung. 
+Dieser Talk versucht die verschiedenen Aspekte der "Observability" zu beleuchten und zugehörige Open Source Werkzeuge dafür vorzustellen. 
+Der Umfang geht über verschiedene Flughöhen. 
+Von "einfacher" Abfrage der Kubernetes API über Service Mesh Optionen bis hin zu Applikations-seitigem Logging und Tracing. 
+Jedes Level erfordert einen gewissen Preis an Konfiguration und Overhead bei der Laufzeit, bietet dafür aber auch unterschiedliche Qualität der Einblicke. 
+Der Umfang und die Optionen wird hier an verschiedenen Beispielen vermittelt.
