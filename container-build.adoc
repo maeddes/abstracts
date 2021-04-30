@@ -14,7 +14,7 @@ Dockerfiles seems to be the choice with the highest adoption when it comes to co
 The talk will give deeper insights by comparing (multi-stage) Dockerfiles to Cloud-Native Buildpacks (buildpacks.io/paketo.io) and Google's JIB under the evaluation criteria of build time, build size, standardization, robustness and security.
 The examples and live demo will have certain focus on Java-based frameworks (Spring Boot, Quarkus, Java EE), but coverage of other languages will also be included and highlighted.
 
-The intented take-away of the session is a better overview of container building and deployment options along with understanding of requirements, advantages and drawbacks.
+The intended take-away of the session is a better overview of container building and deployment options along with understanding of requirements, advantages and drawbacks.
 
 
 Ein typischer Workflow in moderner Software Entwicklung beinhaltet oft folgende Schritte:
