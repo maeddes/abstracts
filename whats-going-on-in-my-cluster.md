@@ -10,8 +10,8 @@ It starts with tools simply querying the Kubernetes API and delivering the outpu
 For each level of observability the user has to pay a certain price in terms of configuration and runtime overhead. In turn the quality and depth of the information is different.
 
 The intended take-away is to get a feeling which type of tooling is the right one for a given purpose.
-The options will be mostly demonstrated in a live demonstration.
-![image](https://user-images.githubusercontent.com/11751587/111759122-91113880-889d-11eb-9166-7349f0cc32b2.png)
+Most options will be shown in a live demonstration.
+
 
 Was geht ab in meinem Cluster?
 
@@ -33,3 +33,5 @@ Der Umfang geht über verschiedene Flughöhen.
 Von "einfacher" Abfrage der Kubernetes API über Service Mesh Optionen bis hin zu Applikations-seitigem Logging und Tracing. 
 Jedes Level erfordert einen gewissen Preis an Konfiguration und Overhead bei der Laufzeit, bietet dafür aber auch unterschiedliche Qualität der Einblicke. 
 Der Umfang und die Optionen wird hier an verschiedenen Beispielen vermittelt.
+
+![image](https://user-images.githubusercontent.com/11751587/111759122-91113880-889d-11eb-9166-7349f0cc32b2.png)
