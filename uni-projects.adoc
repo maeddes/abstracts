@@ -1,0 +1,6 @@
+* https://bitbucket.org/teamcaffeineit04/studienprojekt/src/master/
+* https://github.com/Olegito/plugins_evaluation
+* https://bitbucket.org/binarystate-paau/studienprojekt
+* https://bitbucket.org/Gaussinator/studienarbeit/src/master/
+* https://gitlab.com/a.lombardi013/chess-dist-sys/
+* https://github.com/ValerianWeiss/IoT-Monitor
