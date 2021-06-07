@@ -6,15 +6,14 @@ The broad adoption of container technology mostly driven by the rise of Docker a
 
 long:
 
-A typical workflow in a modern software dev project can look like:
-Build code, put built artefact into container image, put container image into registry, deploy to Kubernetes. Each step has it's own requirements and pitfalls alike. The overall goal is most often to bake those steps into easily repeatable pipelines and enable a high degree of automation and standardization.
+(1300)
+A typical workflow in a modern software dev project often looks like: Build code, put built artefact into a container image, put the container image into a registry and deploy to Kubernetes. Each step has it’s own requirements and pitfalls alike. The overall goal is most often to bake those steps into easily repeatable pipelines and enable a high degree of automation and standardization.
 
-Dockerfiles seems to be the choice with the highest adoption when it comes to containerizing code artifacts. However there are options, which might remove some of the pitfalls and standardize the entire process even more.
+Dockerfiles seems to be the choice with the highest adoption when it comes to containerizing code artefacts. However there are options, which might remove some of the pitfalls and standardize the entire process even more.
 
-The talk will give deeper insights by comparing (multi-stage) Dockerfiles to Cloud-Native Buildpacks (buildpacks.io/paketo.io) and Google's JIB under the evaluation criteria of build time, build size, standardization, robustness and security.
-The examples and live demo will have certain focus on Java-based frameworks (Spring Boot, Quarkus, Java EE), but coverage of other languages will also be included and highlighted.
+The talk will give deeper insights by comparing (simple, multi-stage, BuildKit) Dockerfiles to Cloud-Native Buildpacks (buildpacks.io/paketo.io), Google’s JIB and Source2Image under the evaluation criteria of build time, build size, standardization, robustness and security. The examples and live demo will have certain focus on Java-based frameworks (Spring Boot, Quarkus, Java EE), but coverage of other languages will also be included and highlighted.
 
-The intended take-away of the session is a better overview of container building and deployment options along with understanding of requirements, advantages and drawbacks.
+The intended take-away of the session is a better overview of Open Source technologies for container building and deployment options along with understanding of requirements, advantages and drawbacks.
 
 ---
 
