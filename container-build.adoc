@@ -25,6 +25,14 @@ The talk will help for guiding through this ecosystem, as well as creating aware
 
 ---
 
+(550) The broad adoption of container technology has changed the skill expectation towards developers. The steps to containerize the workload and deploy it also has become a standard in the development cycle.
+
+The ecosystem provides a wide range of options to approach container build. Especially for people getting started this can be confusing.
+
+The talk will help for guiding through this ecosystem, as well as creating awareness about projects, which might have not got the deserved attention as opposed to more dominant ones.
+
+---
+
 
 
 Ein typischer Workflow in moderner Software Entwicklung beinhaltet oft folgende Schritte:
