@@ -59,3 +59,19 @@ A fairly new approach is emerging with the eBPF techngology, which claims to ena
 With this talk I want to compare the approaches to figure out if one, the other or a combination of them might make sense.
 The talk is split into a theoretical and a live-demo part.
  
+---
+
+Distributed applications and Kubernetes: Better of with frameworks, service meshes or both
+
+Software Development based on a distributed (microservice) architecture provides both several advantages and new challenges.
+In order to take advantage of the distribution it requires implementation of service discovery, routing, load-balancing, resilience mechanisms and more.
+
+Java frameworks like Micronaut, Quarkus or Spring Boot provide dedicated implementations for API Gateways, Service Registries, Circuit Breakers and many more.
+These functionalities are declared as code dependencies and need to be set at build time.
+
+If the  architecture is running on top of Kubernetes there are alternative options to address these problems.
+So-called service mesh implementations do not have to be part of the actual application code, but can happen on a the network level of the container.
+A fairly new approach is emerging with the eBPF techngology, which claims to enable service meshes with minimal overhead.
+
+With this talk I want to compare the approaches to figure out if one, the other or a combination of them might make sense.
+The talk is split into a theoretical and a live-demo part.
