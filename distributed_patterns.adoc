@@ -1,0 +1,61 @@
+Cloud-native Software mit Hilfe von Service Meshes und/oder eBPF
+
+eBPF steht für "extended Berkeley Package Filter" und klingt im ersten Moment nicht nach einer Technologie aus dem Umfeld cloud-nativer Software.
+In der Tat hat sie den Ursprung in den Untiefen des Linux Kernels, hat aber in den letzten Monaten sehr starke Bedeutung im Umfeld von Container Technology und Kubernetes gewonnen.
+
+Der Ansatz adressiert hier ähnlich wie Service Meshes die Netzwerk-basierten Anforderungen bzw. Problemstellungen im Betrieb von verteilten Systemen allgemein und Microservices im Besonderen.
+Der Bereich umfasst hier meist die Themen Transparenz (Observability), Routing, Sicherheit und Resilienz.
+
+Während klassische Service Meshes wie Istio oder Linkerd nach dem "Sidecar" Modell funktionieren, in dem jeder Anwendungs Container von einem Proxy Container "assistiert" wird, 
+agiert die eBPF Technologie wie erwähnt auf dem Linux Kernel des Container Daemon und ermöglicht damit ähnliche Funktionalität ohne den Overhead der Sidecars.
+
+Inwiefern dieser Ansatz die Situation von Dev und Ops rund um Kubernetes verbessern kann wird in diesem Talk mit Live Beispielen analysiert.
+
+---
+
+eBPF steht für "extended Berkeley Package Filter" und ist eine Kernel-nahe Linux Technologie. Sie hat jüngst stark an Bedeutung im Umfeld von Containern und Kubernetes gewonnen. 
+
+Der Ansatz adressiert hier ähnlich wie Service Meshes die Netzwerk-basierten Anforderungen bzw. Problemstellungen im Betrieb von verteilten Systemen allgemein und Microservices im Besonderen.Der Bereich umfasst hier meist die Themen Transparenz (Observability), Routing, Sicherheit und Resilienz. Während klassische Service Meshes wie Istio oder Linkerd nach dem "Sidecar" Modell funktionieren, in dem jeder Anwendungs Container von einem Proxy Container "assistiert" wird, agiert die eBPF Technologie wie erwähnt auf dem Linux Kernel des Container Daemon und ermöglicht damit ähnliche Funktionalität ohne den Overhead der Sidecars.Inwiefern dieser Ansatz die Situation von Dev und Ops rund um Kubernetes verbessern kann wird in diesem Talk mit Live Beispielen analysiert.
+
+---
+
+eBPF ist derzeit ein Technologie im Umfeld von Cloud Nativer Software mit stark wachsender Popularität. Dieser Talk zeigt welche Anforderungen im Vereich von Transparenz (Observability), Routing, Sicherheit und Resilienz man damit bewältigen kann und wie es sich zu Ansätzen wie klassischer Software Frameworks und/oder Service Meshes verhält.
+
+---
+Wie bekomme ich die Netzwerk-bedingten Anforderungen verteilter Anwendungen in Kubernetes unter Kontrolle und welche Technologien gibt es hierfür.
+
+---
+
+Java Microservices - Besser dran mit Framework, Service Meshes oder beidem?
+
+Die Software Entwicklung basierend auf einer verteilten Microservice Architektur bringt sowohl für "Dev" als auch für "Ops" zahlreiche Herausforderungen.
+Das Netzwerk hat eine zentrale Rolle und umfasst Problemstellungen im Bereich von Transparenz (Observability), Routing, Sicherheit und Resilienz. 
+
+Frameworks wie Micronaut, Quarkus oder Spring Boot haben modulare Lösungen für z.B. API Gateways, Service Discovery, Circuit Breakers uvm. 
+Die Funktionalitäten werden hierbei als Abhängigkeiten deklariert, sind daher oft Framework-spezifisch und müssen zur Build Zeit feststehen.
+
+Im Umfeld von Kubernetes gibt es hier auch die Option der Service Meshes um diese Problemstellungen zu adressieren.
+Diese sind unabhängig vom Code und interagieren auf der Netzwerkebene der Container. Eine ganz neue Möglichkeit stellt hier die eBPF Technologie dar,
+die Service Meshes mit einem geringeren Overhead verspricht.
+
+Die Frage, die sich hier stellt ist ob eine "code-agnostische" Lösung die gleiche Funktionalit und Qualität bringen kann wie "built-in" Lösungen.
+
+In diesem Talk werden die Optionen verglichen und in einer Live Demo dargestellt, die Abgrenzung der Technologien verdeutlicht und sinnvolle Anwendungen und Integrationen aufgezeigt.
+
+
+---
+
+Distributed systems patterns with Spring Cloud, Service Meshes and eBPF
+
+Software Development based on a distributed (microservice) architecture provides both several advantages and new challenges.
+In order to take advantage of the distribution it requires implementation of service discovery, routing, load-balancing, resilience mechanisms and more.
+
+In the ecosystem of Spring there is Spring Cloud, which provides dedicated libraries to address exactly those challenges.
+
+If the microservice architecture is running on top of Kubernetes there are alternative options to address these problems.
+So-called service mesh implementations do not have to be part of the actual application code, but can happen on a the network level of the container.
+A fairly new approach is emerging with the eBPF techngology, which claims to enable service meshes with minimal overhead.
+
+With this talk I want to compare the approaches to figure out if one, the other or a combination of them might make sense.
+The talk is split into a theoretical and a live-demo part.
+ 
