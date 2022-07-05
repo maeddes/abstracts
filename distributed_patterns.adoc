@@ -86,3 +86,10 @@ With Kubernetes there are alternative options to address these requirements. Kub
 So-called service meshes extend this functionality with more granular network interaction. They are not part of the application code and can hence be added during runtime. A fairly new approach is emerging with the eBPF technology, which claims to enable service meshes with minimal overhead.
 
 With this talk Matthias wants to explain "the why" of cloud-native application design and how various CNCF technologies facilitate this. It shows the possibilities and limitations of technologies and which forms of integration can make sense. The talk mostly consists of graphical visualisations/explanations and contains a live demo.
+
+---
+
+Pitch
+
+This talk provides a detailed comparison of how to implement requirements for distributed systems architecture with various options. It is not a product/technology pitch in any way and rather challenges the questions when technologies like Kubernetes or Service Meshes are really required (and if at all). The talk does not contain much text and all steps are sketched visually.
+The initial version of this talk was somewhat tailored to Spring Boot and held at the Spring IO conference. It has one of the highest view counts on YouTube so far. With this version I will step a bit away from Spring Boot and Spring Cloud and go more into frameworks for cloud-native software in general.
