@@ -7,3 +7,13 @@ This talk intends to look at the various aspects of Kubernetes observability and
 It starts with tools simply querying the Kubernetes API and delivering the outputs in an easy-to-understand UI, goes over the possibilities of services meshes and ends with application-side logging and monitoring. For each level of observability the user has to pay a certain price in terms of configuration and runtime overhead. In turn the quality and depth of the information is different.
 
 The intended take-away is to get a feeling which type of tooling is the right one for a given purpose. Most options will be shown in a live demonstration. Some of the technologies have a polyglot aspect and can be applied independent of the framework. This talk has a dominant focus on JVM-based applications.
+
+
+
+Kubernetes zu begreifen kann schwierig sein. Nicht nur beim anfänglichen Lernen und Verstehen der Konzepte, sondern auch der Überblick über das Geschehen der Workloads eines Clusters kann eine Herausforderung darstellen. Wie kann man schnell und einfach feststellen, ob die Anwendungen gesund, gut ausgelastet und reibungslos laufen?
+
+Dieser Vortrag beabsichtigt, die verschiedenen Aspekte der "Kubernetes Obervability" zu betrachten und mehrere Open-Source-Tools vorzustellen und zu vergleichen. Die Palette der Werkzeuge umfasst unterschiedliche "Flughöhen" von Observability und Anforderungen verschiedener Benutzergruppen.
+
+Er beginnt mit Tools, die direkt die Kubernetes-API abfragen und die Ergebnisse in einer leicht verständlichen Benutzeroberfläche liefern, geht über die Möglichkeiten von Service Meshes und endet mit Logging und Überwachung auf Anwendungsebene. Für jede Beobachtbarkeitsstufe muss der Benutzer einen bestimmten Preis in Bezug auf Konfiguration und Laufzeit Overhead zahlen. Im Gegenzug ist die Qualität und Tiefe der Informationen unterschiedlich.
+
+Das beabsichtigte Fazit ist, ein Gefühl dafür zu bekommen, welche Art von Werkzeugen für einen bestimmten Zweck geeignet ist. Die meisten Optionen werden in einer Live-Demonstration gezeigt. Einige der Technologien haben einen polyglotten Aspekt und können unabhängig vom Framework angewendet werden. Dieser Vortrag konzentriert sich hauptsächlich auf JVM-basierte Anwendungen.
