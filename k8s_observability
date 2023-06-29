@@ -9,6 +9,23 @@ It starts with tools simply querying the Kubernetes API and delivering the outpu
 The intended take-away is to get a feeling which type of tooling is the right one for a given purpose. Most options will be shown in a live demonstration. Some of the technologies have a polyglot aspect and can be applied independent of the framework. This talk has a dominant focus on JVM-based applications.
 
 
+KubeCon 2023
+
+Understanding what is happening in your cluster can be challenging. How can you quickly and easily tell if your cluster and apps are healthy, well utilized and running fine?
+
+In this tutorial, we'll look at various aspects of Kubernetes observability, and present multiple OSS solutions from the CNCF landscape and beyond to achieve that.
+
+We will start with tools simply querying the Kubernetes API and delivering the outputs in an easy-to-understand UI (e.g. Skooner, k9s), go over sidecar-based and eBPF-based services meshes (e.g. Kiali, Hubble UI) and end with application-side logging and monitoring (e.g. OpenTelemetry, fluentd, Jaeger, Grafana). Each level of observability demands a certain price in terms of configuration and runtime overhead. In turn the quality and depth of the information is different. 
+
+The intended take-away is to get an understanding which type of tooling is the right one for a given purpose. Most options will be shown in a live demonstration. 
+
+Shortened (600)
+
+Understanding what's happening in your Kubernetes cluster can be challenging. How can you quickly and easily tell if your cluster and apps are healthy, well-utilized and running fine?
+
+We'll look at various aspects of Kubernetes observability, and view multiple open source solutions to achieve that. Each level of observability demands a price in terms of overhead with varying quality and depth of information. We'll start with tools simply querying the Kubernetes API and delivering the outputs via an easy-to-understand UI, cover sidecar and eBPF-based services meshes, logging, and monitoring.
+
+
 
 Kubernetes zu begreifen kann schwierig sein. Nicht nur beim anfänglichen Lernen und Verstehen der Konzepte, sondern auch der Überblick über das Geschehen der Workloads eines Clusters kann eine Herausforderung darstellen. Wie kann man schnell und einfach feststellen, ob die Anwendungen gesund, gut ausgelastet und reibungslos laufen?
 
