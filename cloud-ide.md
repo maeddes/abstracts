@@ -57,7 +57,7 @@ This will also showcase how these environments can be used to standardize develo
 
 Codespaces, Gitpod, Devpod ... what cloud and container-based IDEs can do for you
 
-In den letzten 2 Jahren haben cloud-basierte Entwicklungsumgebungen wie Gitpod oder GitHub Codespaces stark an Popularität gewinnen. Mit Devpod kam vor kurzem eine neue Open Source Technologie in diesem Feld dazu und es ist sehr wahrscheinlich, daß es in naher Zukunft noch weitere Neuerscheinungen geben wird.
+In den letzten 2 Jahren haben cloud-basierte Entwicklungsumgebungen wie Gitpod oder GitHub Codespaces stark an Popularität gewonnen. Mit Devpod kam vor kurzem eine neue Open Source Technologie in diesem Feld dazu und es ist sehr wahrscheinlich, daß es in naher Zukunft noch weitere Neuerscheinungen geben wird.
 
 Mit diesem Vortrag vergleiche ich den Ansatz dieser Technologien im Vergleich zu traditionellen IDEs und versuche die Rolle der Container Technologie - insbesonders der devcontainer Spezifikation - zu beleuchten.
 
