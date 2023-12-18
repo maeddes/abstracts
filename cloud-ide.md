@@ -61,8 +61,10 @@ In den letzten 2 Jahren haben cloud-basierte Entwicklungsumgebungen wie Gitpod o
 
 Mit diesem Vortrag vergleiche ich den Ansatz dieser Technologien im Vergleich zu traditionellen IDEs und versuche die Rolle der Container Technologie - insbesonders der devcontainer Spezifikation - zu beleuchten.
 
-Ich werde in einer Live Demo zeigen wie schnell es möglich ist ohne großes Setup polyglotte, container-basierte Anwendungen zu entwickeln. Das beinhaltert auch die Möglichkeit die Development und Test Ergebnisse sofort zu zeigen, sowie das Deployment in Umgebungen außerhalb der IDEs.
+Der Fokus liegt hier auf der JVM-basierten Sprachen und den IDEs VisualStudio Code und IntelliJ.
+
+Ich werde in einer Live Demo zeigen wie schnell es möglich ist ohne großes Setup polyglotte, container-basierte Anwendungen zu entwickeln. Das beinhaltet auch die Möglichkeit die Development und Test Ergebnisse sofort zu zeigen, sowie das Deployment in Umgebungen außerhalb der IDEs.
 
 In der Demo zeige ich auch wie man das Standard Setup für die eigenen Bedürfnisse anpassen kann.
 
-Ich werde auch darauf eingehen wie mir die Technologien bei den praktischen Beispielen an meiner Hochschul Vorlesung geholfen haben.
+Ich werde auch darauf eingehen wie mir die Technologien bei den praktischen Beispielen in verschieden Szenarien vom beruflichen Alltag wie auch bei der Vorlesung an den Hochschulen geholfen hat.
