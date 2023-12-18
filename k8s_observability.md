@@ -29,7 +29,7 @@ We'll look at various aspects of Kubernetes observability, and view multiple ope
 
 Kubernetes zu begreifen kann schwierig sein. Nicht nur beim anfänglichen Lernen und Verstehen der Konzepte, sondern auch der Überblick über das Geschehen der Workloads eines Clusters kann eine Herausforderung darstellen. Wie kann man schnell und einfach feststellen, ob die Anwendungen gesund, gut ausgelastet und reibungslos laufen?
 
-Dieser Vortrag beabsichtigt, die verschiedenen Aspekte der "Kubernetes Obervability" zu betrachten und mehrere Open-Source-Tools vorzustellen und zu vergleichen. Die Palette der Werkzeuge umfasst unterschiedliche "Flughöhen" von Observability und Anforderungen verschiedener Benutzergruppen.
+Dieser Vortrag beabsichtigt, die verschiedenen Aspekte der "Kubernetes Observability" zu betrachten und mehrere Open-Source-Tools vorzustellen und zu vergleichen. Die Palette der Werkzeuge umfasst unterschiedliche "Flughöhen" von Observability und Anforderungen verschiedener Benutzergruppen.
 
 Er beginnt mit Tools, die direkt die Kubernetes-API abfragen und die Ergebnisse in einer leicht verständlichen Benutzeroberfläche liefern, geht über die Möglichkeiten von Service Meshes und endet mit Logging und Überwachung auf Anwendungsebene. Für jede Beobachtbarkeitsstufe muss der Benutzer einen bestimmten Preis in Bezug auf Konfiguration und Laufzeit Overhead zahlen. Im Gegenzug ist die Qualität und Tiefe der Informationen unterschiedlich.
 
