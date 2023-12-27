@@ -3,7 +3,7 @@ Titles:
 * A) Is this the year of the development environment in the cloud?
 * B) Codespaces, Gitpod, Devpod ... what cloud and container-based IDEs can do for you
 
-###
+### v1
 
 Over the last 2 years cloud-based integrated development environments (IDEs) such as Gitpod or GitHub Codespaces have gained a lot of popularity. Devpod is the most recent Open Source technology in this field and there will very likely be more additions in the near future.
 
@@ -22,7 +22,7 @@ This highlights how advanced this field has become in recent years and where the
 Moreover, I will discuss how cloud IDEs have helped me in teaching distributed systems at university, by ensuring that all my students have a consistent development setup.
 This will also showcase how these environments can be used to standardize development environments in team projects, making the development process more efficient and streamlined.
 
-###
+### v2
 
 Over the last 2 years cloud-based integrated development environments (IDEs) such as Gitpod or GitHub Codespaces have gained a lot of popularity. Devpod is the most recent Open Source technology in this field and there will very likely be more additions in the near future.
 
@@ -42,12 +42,11 @@ Additionally, I will demonstrate how custom additions can be made if something i
 
 This highlights how advanced this field has become in recent years and where there is still room for improvement.
 
-
 Moreover, I will discuss how cloud IDEs have helped me in teaching distributed systems at university, by ensuring that all my students have a consistent development setup.
 
 This will also showcase how these environments can be used to standardize development environments in team projects, making the development process more efficient and streamlined.
 
-###
+### v1 DE
 
 Codespaces, Gitpod, Devpod ... what cloud and container-based IDEs can do for you
 
