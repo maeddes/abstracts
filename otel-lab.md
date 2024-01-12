@@ -8,11 +8,11 @@ The exercises include
 
 
 
-the instrumentation of a polyglot microservice application
-auto-instrumentation vs. manual instrumentation
-evaluating the collected traces, logs and metrics
-configuring a collector
-analysing the results in Jaeger
+- the instrumentation of a polyglot microservice application
+- auto-instrumentation vs. manual instrumentation
+- evaluating the collected traces, logs and metrics
+- configuring a collector
+- analysing the results in Jaeger
 
 
 This lab is made for developers seeking a pragmatic understanding of OpenTelemetry's immediate benefits. Walk away with practical skills that can be implemented right away in your projects, and elevate your observability game in just 180 minutes.
