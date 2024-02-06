@@ -2,11 +2,7 @@ In today's modern software landscape - in the cloud-native one in particular - o
 
 The lab covers the implementation and usage of OpenTelemetry into Python and Java-based applications. Each participant will get a dedicated environment.
 
-
-
 The exercises include
-
-
 
 - the instrumentation of a polyglot microservice application
 - auto-instrumentation vs. manual instrumentation
@@ -22,3 +18,22 @@ In the last 2 years, OpenTelemetry has emerged as one of the most crucial CNCF p
 The user's will either need to have a local docker installation or can directly use clod-based technologies like GitHub Codespaces or GitPod. An account with GitHub or GitLab is necessary to access this.
 
 A basic understanding of either Java or Python and command-line familiarity is recommended, but not necessary.
+
+Im heutigen modernen Software-Umfeld, insbesondere im cloud-nativen Bereich, ist das Thema Observability zu einem entscheidenden Aspekt geworden, um die Leistung, Zuverlässigkeit und Sicherheit von Anwendungen zu gewährleisten. OpenTelemetry, ein Standard- und Open-Source Observability Framework, bietet eine einheitliche Möglichkeit, Telemetriedaten aus Anwendungen und Diensten zu sammeln und zu exportieren. Dies praktische Labor wird die Teilnehmer durch den Prozess der Verwendung von OpenTelemetry führen, um eine einfache Anwendung zu instrumentieren, Metriken, Traces und Protokolle zu sammeln und sie zur Analyse an verschiedene Backends zu senden.
+
+Das Labor behandelt die Implementierung und Verwendung von OpenTelemetry in Python- und Java-Anwendungen. Jeder Teilnehmer erhält eine dedizierte Umgebung.
+
+Die Übung umfasst:
+
+Die Instrumentierung einer polyglotten Microservice-Anwendung
+Auto-Instrumentierung vs. manuelle Instrumentierung
+Bewertung der gesammelten Traces, Protokolle und Metriken
+Konfiguration eines Collectors
+Analyse der Ergebnisse in Jaeger
+Dieses Labor richtet sich an Entwickler, die ein pragmatisches Verständnis der unmittelbaren Vorteile von OpenTelemetry suchen.
+
+
+
+
+
+
