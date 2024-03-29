@@ -35,5 +35,16 @@ Dieses Labor richtet sich an Entwickler, die ein pragmatisches Verständnis der 
 
 
 
+Im heutigen modernen Softwareumfeld - insbesondere im cloud-nativen Bereich - ist Observability zu einem entscheidenden Aspekt geworden, um die Leistung, Zuverlässigkeit und Sicherheit von Anwendungen zu gewährleisten. OpenTelemetry, ein Standard- und Open-Source-Observability Framework, bietet eine einheitliche Möglichkeit, Telemetriedaten aus Anwendungen und Diensten zu sammeln und zu exportieren. Dieses praktische Turorial führt die Teilnehmer durch den Prozess der Verwendung von OpenTelemetry zur Instrumentierung einer einfachen Anwendung, zum Sammeln von Metriken, Traces und Logs und zum Exportieren an verschiedene Backends zur Analyse.
 
+Das Labor behandelt die Implementierung und Verwendung von OpenTelemetry hauptsächlich Java-basierten Anwendungen. Jede(r) Teilnehmer*in erhält eine dedizierte Umgebung.
+
+Die Übungen umfassen
+- die Instrumentierung einer polyglotten Microservice-Anwendung
+- Auto-Instrumentierung vs. manuelle Instrumentierung
+- Auswertung der gesammelten Traces, Logs und Metriken
+- Konfiguration eines Collectors
+- Analyse der Ergebnisse in Jaeger und Prometheus
+
+Dieses Tutorial richtet sich an Entwickler*innen, die ein pragmatisches Verständnis der unmittelbaren Vorteile von OpenTelemetry suchen. Sie verlassen die Session mit praktischen Fähigkeiten, die sofort in Ihren Projekten umgesetzt werden können und verbessern Sie Ihren Observability Skill in 180 Minuten.
 
