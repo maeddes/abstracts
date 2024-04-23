@@ -4,7 +4,7 @@ Talk History
 
 | <img src="https://openmoji.org/data/color/svg/1F5FA.svg" width="40"> | Event | Date | Title | ![](https://openmoji.org/data/color/svg/1F1EC-1F1F7.svg) |
 |:---:| --- | --- | --- | --- |
-| <img src="https://openmoji.org/data/color/svg/1F1EC-1F1F7.svg" width="40"> | Devoxx Greece | Apr-19 | Cloud-based IDEs | ![](https://openmoji.org/data/color/svg/1F1EC-1F1F7.svg) |
+| <img src="https://openmoji.org/data/color/svg/1F1EC-1F1F7.svg" width="25"> | Devoxx Greece | Apr-19 | Cloud-based IDEs | ![](https://openmoji.org/data/color/svg/1F1EC-1F1F7.svg) |
 
 
 
