@@ -3,13 +3,15 @@ Talk History
 
 
 | <img src="https://openmoji.org/data/color/svg/1F5FA.svg" width="40px"> | Event | <img src="https://openmoji.org/data/color/svg/1F4C5.svg" width="40px"> | Topic | <img src="https://openmoji.org/data/color/svg/1F4AC.svg" width="40px"> | <img src="https://openmoji.org/data/color/svg/1F4C5.svg" width="40px"> |
-|:---:|:---:|:---:|:---:|:---:|:---:| <a href="default.asp"><img src="https://openmoji.org/data/color/svg/E269.svg" alt="slides" width="25px"></a>
+|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://openmoji.org/data/color/svg/1F1EC-1F1F7.svg" width="25"> | Devoxx Greece | Apr-19 | Cloud-based IDEs | <img src="https://openmoji.org/data/color/svg/1F1EC-1F1E7.svg" width="25"> | 
 | <img src="https://openmoji.org/data/color/svg/1F1EC-1F1F7.svg" width="25"> | Devoxx Greece | Apr-19 | Kubernetes Observability | ![](https://openmoji.org/data/color/svg/1F1EC-1F1F7.svg) |
 
 <img src="https://openmoji.org/data/color/svg/E269.svg" width="40">
 
 <img src="https://openmoji.org/data/color/svg/1F4CA.svg" width="40">
+
+<a href="default.asp"><img src="https://openmoji.org/data/color/svg/E269.svg" alt="slides" width="25px"></a>
 
 | XXX | Event | Date | Title | Language | Slides | Video | Pics |
 | --- | ----- | ---- | -----| ----- | -------- | ------ | ----- | 
