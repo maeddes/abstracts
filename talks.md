@@ -15,3 +15,4 @@ Talk History
 |                                       |
 |:-------------------------------------:|
 | ![](https://goo.gl/1R3T6h "Tonejito") |
+| ![](https://openmoji.org/data/color/svg/1F1EC-1F1F7.svg) |
