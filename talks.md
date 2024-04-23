@@ -11,3 +11,7 @@ Talk History
 | XXX | Event | Date | Title | Language | Slides | Video | Pics |
 | --- | ----- | ---- | -----| ----- | -------- | ------ | ----- | 
 | XXX | Devoxx Greece | Apr-19 | Cloud-based IDEs | EN | [Link](https://speakerdeck.com/maeddes/cloud-and-container-based-integrated-development-environments) |  N/A | N/A |
+
+|                                       |
+|:-------------------------------------:|
+| ![](https://goo.gl/1R3T6h "Tonejito") |
