@@ -9,4 +9,5 @@
 
 <img src="https://openmoji.org/data/color/svg/E053.svg" width="25px">
 <img src="https://openmoji.org/data/color/svg/E044.svg" width="25px">
-
+<img src="https://openmoji.org/data/color/svg/E045.svg" width="25px">
+<img src="https://openmoji.org/data/color/svg/1F5BC.svg" width="25px">
