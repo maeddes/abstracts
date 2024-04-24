@@ -14,3 +14,7 @@
 
 <img src="https://openmoji.org/data/color/svg/1F3A6.svg" width="25px">
 <img src="https://openmoji.org/data/color/svg/1F3AC.svg" width="25px">
+
+<img src="https://openmoji.org/data/color/svg/1F680.svg" width="25px">
+<img src="https://openmoji.org/data/color/svg/E055.svg" width="25px">
+<img src="https://openmoji.org/data/color/svg/1F4F8.svg" width="25px">
