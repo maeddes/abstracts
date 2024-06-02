@@ -22,4 +22,9 @@
 <img src="https://openmoji.org/data/color/svg/E055.svg" width="25px">
 <img src="https://openmoji.org/data/color/svg/1F4F8.svg" width="25px">
 
-https://www.flickr.com/photos/bejug/53754441776/in/album-72177720317387857/
+
+
+<a href="https://www.flickr.com/photos/bejug/53754441776/in/album-72177720317387857/"><img src="https://openmoji.org/data/color/svg/1F4F8.svg" alt="photos" width="25px"></a>
+
+
+<a href="https://www.youtube.com/watch?v=cHANzfTPNLo"><img src="https://openmoji.org/data/color/svg/E044.svg" alt="youtube" width="25px"></a>
